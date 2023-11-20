@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DisplayProductInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managementSystem\AccountManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managementSystem\CustomerManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managementSystem\OrderManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managementSystem\ProductManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managementSystem\ShipperManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personalInformation\ChangeDisplayName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personalInformation\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personalInformation\SalaryOfPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="printer\ShowDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchCustomersAndShippers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statistical\OrderStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statistical\SalaryOfEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statistical\StatisticsOfTheNumberOfOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statistical\TotalRevenueStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

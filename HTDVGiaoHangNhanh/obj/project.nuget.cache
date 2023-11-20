@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPcwej+Zvc1Lrh/i6ys6Nuk0+Y65BxrqO/OqVeGQF28fc07Rz4Uf/KuYcWYcr+FZos2NADQ3J0qTI/1a9Dh8AQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\C#\\HTDVGiaoHangNhanh\\HTDVGiaoHangNhanh\\HTDVGiaoHangNhanh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vietb\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\vietb\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\vietb\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
